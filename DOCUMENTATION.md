@@ -1,6 +1,6 @@
 # Project Documentation — Swedavia Flight Info
 
-> All documentation is written in English as required.
+> All documentation is written in English.
 
 ---
 
